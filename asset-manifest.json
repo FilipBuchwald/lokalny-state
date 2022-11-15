@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lokalny-state/static/css/main.e6c13ad2.css",
+    "main.js": "/lokalny-state/static/js/main.ac062a16.js",
+    "index.html": "/lokalny-state/index.html",
+    "main.e6c13ad2.css.map": "/lokalny-state/static/css/main.e6c13ad2.css.map",
+    "main.ac062a16.js.map": "/lokalny-state/static/js/main.ac062a16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ac062a16.js"
+  ]
+}
